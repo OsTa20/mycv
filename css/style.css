@@ -503,6 +503,7 @@ a:focus {
 }
 .service_section .box img {
   width: 130px;
+  heighr: 130px;
 }
 
 .service_section .box {
